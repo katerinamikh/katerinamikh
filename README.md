@@ -1,4 +1,3 @@
-# katerinamikh.github.io
 <html>
 <head>
 <h1> <strong> Станкин</title>
