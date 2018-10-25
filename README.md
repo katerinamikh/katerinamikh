@@ -1,6 +1,6 @@
 <html>
 <head>
-<h1> <strong> Станкин</title>
+<h1> <strong> Станкин
 </head>
 <body>
 <h1>
