@@ -15,7 +15,7 @@
 		<section id="top" class="one dark cover">
 			<div class="container">
 				<h2 class="alt" id="main-title">Личная страница</h2>
-				<p>FIO, Group</p>
+				<p>Михайлова Екатерина, ИДМ-18-02</p>
 				<a href="#portfolio" class="button scrolly">Отчеты по лабораторным работам</a>
 			</div>
 		</section>
