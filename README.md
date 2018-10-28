@@ -56,7 +56,7 @@
 					<ol>
 						<li>
 							<p>Регистрация на GitHub.</p>
-							<p><a href="https://github.com/Pavelpet">Страница пользователя</a></p>
+							<p><a href="https://github.com/katerinamikh">Страница пользователя</a></p>
 						</li>
 						<li>
 							<p>Создать персональную веб страницу-отчет с использованием html, css, js.</p>
