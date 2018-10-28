@@ -2,7 +2,7 @@
 <html>
 
 <head>
-	<title>FIO | Group - Личная страница</title>
+	<title> Михайлова Екатерина | ИДМ-18-02 - Личная страница</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
@@ -16,7 +16,7 @@
 			<div class="container">
 				<h2 class="alt" id="main-title">Личная страница</h2>
 				<p>FIO, Group</p>
-				<a href="#portfolio" class="button scrolly">Отчеты по лабораторным</a>
+				<a href="#portfolio" class="button scrolly">Отчеты по лабораторным работам</a>
 			</div>
 		</section>
 		<section id="portfolio" class="two">
@@ -240,27 +240,7 @@
 					<p>Установить баннер на сетевое оборудование: banner motd [баннер]</p>
 				</div>
 			</div>
-		</section>
-
-		<section id="lab4" class="two">
-			<div class="container">
-				<h2>Подготовка к экзамену</h2>
-				<div class="textmain">
-					<p>Вопрос по теме "Интернет-технологии". Данный вопрос был составлен на основе лекции №4 <a href="images/l4.ppsx">"Центры обработки данных".</a></p>
-					<p>Выберите ОДИН правильный ответ:</p>
-					<br />
-					<p>Кто НЕ входит в состав персонала ЦОД (центров обработки данных)?</p>
-					<ul>
-						<li>А) специалист по мониторингу </li>
-						<li>Б) системный архитектор</li>
-						<li>В) дизайнер</li>
-						<li>Г) помощник генерального директора </li>
-					</ul>
-					<br />
-					<p>Правильный ответ: В</p>
-				</div>
-			</div>
-		</section>
+		</section>		
 	</div>
 
 	<div id="footer">
