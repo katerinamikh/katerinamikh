@@ -60,12 +60,12 @@
 						</li>
 						<li>
 							<p>Создать персональную веб страницу-отчет с использованием html, css, js.</p>
-							<p><a href="https://github.com/Pavelpet/Pavelpet.github.io/blob/master/project01.html">Персональная страница-отчет</a>.</p>
+							<p><a href="https://github.com/katerinamikh/katerinamikh.github.io">Персональная страница-отчет</a>.</p>
 						</li>
 						<li>
 							<p>Загрузить персональную веб страницу-отчет в репозиторий ИДМ-18 по курсу "Интернет-технологии"
 								на GitHub.</p>
-							<p><a href="https://github.com/Pavelpet/Pavelpet.github.io/blob/master/project01.html>Папка с исходными кодами в репозитории</a>.</p>
+							<p><a href="https://github.com/katerinamikh/katerinamikh.github.io/blob/master/index1.html">Папка с исходными кодами в репозитории</a>.</p>
 						</li>
 					</ol>
 				</div>
