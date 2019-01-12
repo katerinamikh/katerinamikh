@@ -39,11 +39,10 @@
 						</li>
 						<li>
 							<p><a href="#lab4" class="scrolly">Подготовка к экзамену</a>:</p>
-							<p><a href="https://docs.google.com/spreadsheets/d/1iZ7gLvnKfSx3TUTjl_-gCtDQ66B1JlkO4WZaMj6R0sw/edit#gid=1373642912&range=AB15> Самооценка прохождения теста по инновациям: 59%;</a></p>
+							<p><a href="https://docs.google.com/spreadsheets/d/1iZ7gLvnKfSx3TUTjl_-gCtDQ66B1JlkO4WZaMj6R0sw/edit#gid=1373642912&range=AB15"> Самооценка прохождения теста по инновациям: 59%;</a></p>
 							<p><a href="https://docs.google.com/spreadsheets/d/1iZ7gLvnKfSx3TUTjl_-gCtDQ66B1JlkO4WZaMj6R0sw/edit#gid=1682100065&range=AD15">Самооценка прохождения теста по управлению проектами (рисками):67%;</a></p>
 							<p><a href="https://github.com/stankin/inet-2018/wiki/Билет-1-(правильный)">Формулировка ответа на билет №1.</a></p>
 						</li>
-						<li>
 					</ol>
 				</div>
 			</div>
