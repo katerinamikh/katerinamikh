@@ -39,10 +39,11 @@
 						</li>
 						<li>
 							<p><a href="#lab4" class="scrolly">Подготовка к экзамену</a>:</p>
-							<p>Самооценка прохождения теста по инновациям;
-							<p>Формулировка ответа на билет №1.
-								</p>
+							<p><a href="https://docs.google.com/spreadsheets/d/1iZ7gLvnKfSx3TUTjl_-gCtDQ66B1JlkO4WZaMj6R0sw/edit#gid=1373642912&range=AB15> Самооценка прохождения теста по инновациям: 59%;</a></p>
+							<p><a href="https://docs.google.com/spreadsheets/d/1iZ7gLvnKfSx3TUTjl_-gCtDQ66B1JlkO4WZaMj6R0sw/edit#gid=1682100065&range=AD15">Самооценка прохождения теста по управлению проектами (рисками):67%;</a></p>
+							<p><a href="https://github.com/stankin/inet-2018/wiki/Билет-1-(правильный)">Формулировка ответа на билет №1.</a></p>
 						</li>
+						<li>
 					</ol>
 				</div>
 			</div>
@@ -66,7 +67,7 @@
 						<li>
 							<p>Загрузить персональную веб страницу-отчет в репозиторий ИДМ-18 по курсу "Интернет-технологии"
 								на GitHub.</p>
-							<p><a href="https://github.com/katerinamikh/katerinamikh.github.io/blob/master/index1.html">Папка с исходными кодами в репозитории</a>.</p>
+							<p><a href="https://github.com/katerinamikh/katerinamikh.github.io">Папка с исходными кодами в репозитории</a>.</p>
 						</li>
 					</ol>
 				</div>
@@ -82,22 +83,21 @@
 					<ol>
 						<li>
 							<p>Собрать команду для разработки веб-приложения (SPA) и распределить роли.</p>
-							<p><a href="https://github.com/Pavelpet/Pavelpet.github.io/blob/master/project01.html">Страница команд</a>.</p>
 						</li>
 						<li>
 							<p>Разработать макет страницы веб-приложения.</p>
-							<p><a href="https://github.com/Pavelpet/Pavelpet.github.io/blob/master/project01.html">Макет страницы</a>.</p>
+							<p><a href="https://github.com/katerinamikh/katerinamikh.github.io/blob/master/index1.html">Макет страницы</a>.</p>
 						</li>
 						<li>
 							<p>Прописать стили страницы</p>
-							<p><a href="https://github.com/Pavelpet/Pavelpet.github.io/blob/master/code/css/main.css">CSS</a></p>
+							<p><a href="https://github.com/katerinamikh/katerinamikh.github.io/blob/master/code/css/main.css">CSS</a></p>
 						</li>
 						<li>
 							<p>Прописать js функционал и реализовать возможность чтения json.</p>
-							<p><a href="https://github.com/Pavelpet/Pavelpet.github.io/tree/master/code/js">JS</a>, <a href="https://github.com/Pavelpet/Pavelpet.github.io/tree/master/code/js">JSON</a></p>
+							<p><a href="https://github.com/katerinamikh/katerinamikh.github.io/tree/master/code/js">JS</a>, <a href="https://github.com/katerinamikh/katerinamikh.github.io/tree/master/code/js">JSON</a></p>
 						</li>
 						<p class="highlight">Результат:</p>
-						<p><a href="https://github.com/Pavelpet/Pavelpet.github.io/tree/master/code/js">Работающий прототип</a></p>
+						<p><a href="https://bondarchuks.github.io/game/game.html">Готовый проект</a></p>
 					</ol>
 				</div>
 			</div>
